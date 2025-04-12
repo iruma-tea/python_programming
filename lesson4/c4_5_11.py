@@ -1,0 +1,1 @@
+raise IndexError('test error')
